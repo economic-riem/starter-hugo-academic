@@ -5,34 +5,34 @@ title: "An example conference paper"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Geng Niu
 - admin
-- Robert Ford
+- Han Li
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2020-04-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.jbankfin.2020.105757"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: *Journal of Banking & Finance*
+publication_short: In *JBF*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Siblings are important sources of support. Male siblings, in particular, are valuable extended family resources in patriarchal societies such as China. This paper examines the effects of the number of brothers on household stock market participation in China. We find that having more brothers increases both the probability of stock market participation and the portfolio share in stocks. This positive effect is more pronounced for individuals who face high income risk, suffer from poor health, lack private insurance, and reside in areas with low financial development and high gender discrimination. In addition, the brother effect persists in recent periods. This evidence highlights the importance of informal risk-sharing networks in household investment decisions. Our results imply that demographic changes such as fertility decline might have unnoticed but sizable impacts on household portfolio choice, especially in countries with strong family ties.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 
 tags: []
 
